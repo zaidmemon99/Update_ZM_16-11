@@ -1,0 +1,2 @@
+In order to run the dynamo codes, the user needs to add the following packages:-
+Clockwork, Crumple, GeniusLoci, Orchid, Spring Nodes, WombatDynamo
