@@ -1,5 +1,5 @@
 ### Versions
-Revit 2022 and Dynamo 2.10.1.4002 has been used for the following project.
+Revit 2022 and Dynamo 2.10.1.4002 have been used for the following project.
 
 ### Dependencies
 In order to run the dynamo codes, the user needs to add the following packages:-
